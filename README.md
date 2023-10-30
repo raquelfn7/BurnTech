@@ -1,1 +1,2 @@
 # BurnTech
+Currículo profissional
